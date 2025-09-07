@@ -13,8 +13,9 @@ I am not responsible for data loss, malfunctions, or damage. Tested on my MSI Cl
 
 ⚙️ Setup Instructions
 🔑 1. Enable Auto Login
-Follow Microsoft’s official guide:
-Turn on automatic logon
+Follow Microsoft’s official guide or the second link: 
+[Turn on automatic logon](https://learn.microsoft.com/en-us/troubleshoot/windows-server/user-profiles-and-logon/turn-on-automatic-logon)
+[Turn on automatic logon](https://www.minitool.com/data-recovery/windows-11-auto-login.html)
 
 📂 2. Place the Project Files
 Extract the ZIP directly into C:\ so the structure looks like:
