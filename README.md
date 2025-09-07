@@ -23,7 +23,10 @@ this may be outdated
 Extract the ZIP directly into C:\ so the structure looks like:
 
 C:\PlayniteShell\PlayniteShell.bat
+
 C:\PlayniteShell\PlayniteShell.vbs
+
+C:\PlayniteShell\mpv.exe and so on
 ...
 
 🖼️ 3. Customize Windows & Playnite
