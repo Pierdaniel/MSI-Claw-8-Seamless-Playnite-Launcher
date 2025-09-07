@@ -61,3 +61,9 @@ Restart and enjoy a smoother boot into Playnite.
 If issues occur: Plug in a USB-C keyboard, open Task Manager (Ctrl + Shift + Esc) → run explorer.exe
 
 if something is missing, kindly notify me. Enjoy my first project
+
+Important Note
+
+I did not remove any Windows system files to bypass the login screen (such as the Windows 10 logon components).
+
+👉 Please do not use or delete those files
