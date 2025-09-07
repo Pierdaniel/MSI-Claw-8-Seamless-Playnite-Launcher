@@ -69,7 +69,11 @@ if something is missing, kindly notify me. Enjoy my first project
 ## 🙏 Credits
 
 This project is community-driven and not intended for any source of income.  
-It relies on external software including:  
+It relies on external guide and software including:  
+
+- [GameLauncherShell](https://github.com/quangmach/GameLauncherShell) by [quangmach](https://github.com/quangmach)
+  
+- [Reddit guide](https://www.reddit.com/r/playnite/comments/1kzhq1i/how_do_i_boot_straight_into_playnite_without/) by [mimouBEATER](https://www.reddit.com/user/mimouBEATER)  
 
 - [Playnite](https://playnite.link/) – open-source game launcher
   
