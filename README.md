@@ -21,6 +21,7 @@ this may be outdated
 
 📂 2. Place the Project Files
 Extract the ZIP directly into C:\ so the structure looks like:
+
 C:\PlayniteShell\PlayniteShell.bat
 C:\PlayniteShell\PlayniteShell.vbs
 ...
@@ -30,18 +31,21 @@ Change Wallpaper, Login Screen, and User Picture using the files in the Playnite
 Configure Playnite for a PS5-style look (or any theme you prefer).
 
 🎨 4. Playnite Add-ons & Metadata -> Install these extensions:
+
 DKG Theme Modifier → Set display/hide, disable video, enable intro (3–4s), save.
 Extra Metadata Tools → Add background video from Install\BackgroundVideo.
 anything else you like. 
 
 🧪 5. Test Your Script
 Run PlayniteShell.bat to check performance. Optimized for speed and smoothness.
+
 ⚠️ Note: Windows taskbar may briefly appear (~1s) during video playback.
 
 ✅ Default: MPV ( already in the zip )
 ⚙️ Alternatives: ffplay or VLC
 
 📝 6. Registry Modification (Final Step)
+
 Open Registry Editor (regedit.exe).
 Navigate to:
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon
