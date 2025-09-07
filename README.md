@@ -65,8 +65,16 @@ If issues occur: Plug in a USB-C keyboard, open Task Manager (Ctrl + Shift + Esc
 
 if something is missing, kindly notify me. Enjoy my first project
 
-Important Note
 
-I did not remove any Windows system files to bypass the login screen (such as the Windows 10 logon components).
+## 🙏 Credits
 
-👉 Please do not use or delete those files
+This project is community-driven and not intended for any source of income.  
+It relies on external software including:  
+
+- [Playnite](https://playnite.link/) – open-source game launcher
+  
+- [MPV](https://mpv.io/) – open-source media player  
+
+All rights for these tools belong to their respective authors. This repository only provides scripts and configuration steps to integrate them on MSI Claw 8
+Feel free to use, modify, and share, but keep the credits.
+
