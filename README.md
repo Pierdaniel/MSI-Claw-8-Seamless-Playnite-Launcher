@@ -6,8 +6,9 @@ I am not responsible for data loss, malfunctions, or damage. Tested on my MSI Cl
 
 🛠️ Prerequisites (Mandatory) Before starting, complete these steps:
 💾 Create a full backup or restore point — do not skip.
-🖥️ Finish initial MSI Claw 8 setup: Install all Windows updates, Apply tweaks, Disable Memory Integrity, Install Playnite and buttery-taskbar
-👤 Enable automatic login with a local admin account via Registry Editor. Unsure if this works with Microsoft accounts ( did not test )
+
+🖥️ Finish initial MSI Claw 8 setup: Install all Windows updates, Apply tweaks, Disable Memory Integrity, Install Playnite and unzip the file in C:
+👤 Enable automatic login with a local admin account via Registry Editor. Unsure if this works with Microsoft accounts ( tested only with local admin account )
 🎮 Download and install your games.
 🔋 Configure the power button to Hibernate.
 
@@ -25,6 +26,8 @@ Extract the ZIP directly into C:\ so the structure looks like:
 C:\PlayniteShell\PlayniteShell.bat
 
 C:\PlayniteShell\PlayniteShell.vbs
+
+C:\PlayniteShell\buttery-taskbar.exe
 
 C:\PlayniteShell\mpv.exe and so on
 ...
