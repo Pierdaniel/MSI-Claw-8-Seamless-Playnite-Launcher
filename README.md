@@ -1,6 +1,9 @@
 # MSI-Claw-8-Seamless-Playnite-Launcher
 This project combines two existing guides (GameLauncherShell and mimouBEATER’s Reddit guide ) to create a Playnite-first startup experience on the MSI Claw 8. 
 
+Common issues: battery drain / hibernate not working properly with Playnite full screen
+Proceed only if you can accept to use more the turn off function
+
 ⚠️ Disclaimer This guide is experimental and may cause issues with your MSI Claw 8 (or similar devices).
 I am not responsible for data loss, malfunctions, or damage. Tested on my MSI Claw 8 AI+. If you follow the steps carefully and create a full backup, you should be able to recover if something goes wrong.
 
