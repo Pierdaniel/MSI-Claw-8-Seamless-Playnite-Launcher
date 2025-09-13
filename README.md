@@ -60,10 +60,11 @@ Navigate to:
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon
 Edit the Userinit entry. By default -> C:\WINDOWS\system32\userinit.exe
 
-Change to -> C:\WINDOWS\system32\userinit.exe, C:\PlayniteShell\buttery-taskbar.exe, wscript.exe C:\PlayniteShell\PlayniteShell.vbs
+Change to -> C:\WINDOWS\system32\userinit.exe, wscript.exe C:\PlayniteShell\PlayniteShell.vbs
 
 ⚠️ Important:
 Keep userinit.exe first → removing it breaks login.
+**Note: I removed buttery-task.exe because I didn’t like its behavior. Feel free to keep or adjust it if you prefer.**
 
 🔄 Restart & Recover
 Restart and enjoy a smoother boot into Playnite.
